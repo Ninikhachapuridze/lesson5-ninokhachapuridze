@@ -1,0 +1,177 @@
+/*აქ ვიყენებ ფონტებს აბსოლუტური მისამართით*/
+.first-h{
+	margin-top: 80px;
+	
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+}
+.container{	
+	width: 1088px;
+	margin: 10px auto 0 auto;
+	
+}
+.left-div1{
+	display: inline-block;
+	vertical-align: middle;
+	background-color: #F8F8F8;
+	margin-right: 20px;
+
+}
+.right-div1{
+	display: inline-block;
+	vertical-align: middle;
+	background-color: #BE2B2B;
+	margin-left: 50px;
+	
+
+}
+.title1{
+	font-size: 42px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 10px;
+}
+.left-p{
+	display: inline-block;
+	text size: 14px;
+	font-family: 'Poppins', sans-serif;
+	color: #B1B1B1;
+	width: 260px;
+	margin-top: 10px;
+
+}
+.div-h3{
+	display: inline-block;
+	text size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+}
+.div-h2{
+	
+	text size: 18px;
+	font-family: 'Poppins', sans-serif;
+
+}
+.left-div2{
+	display: inline-block;
+	vertical-align: middle;
+}
+.right-div2{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.left-p1{
+
+	display: inline-block;
+	text size: 14px;
+	font-family: 'Poppins', sans-serif;
+	color: #B1B1B1;
+	width: 260px;
+	margin-top: 10px;
+
+}
+.image-right{
+	display: inline-block;
+	vertical-align: middle;
+}
+.sec-line-div1{
+	display: inline-block;
+
+
+}
+
+	/* აქ ვიყენებ ფონტებს რელატიური მისამართით */
+	
+.blog{
+	font-size: 14px;
+	font-family: 'Roboto';
+	color: #5863F8;
+	margin-top: 70px;
+}
+.title2{
+	font-size: 42px;
+	font-family: 'Roboto';
+	margin-bottom: 10px;
+}
+.title-food{
+	font-size: 14px;
+	color: 	#5863F8;
+	font-family: 'Roboto';
+	margin-left: 125px;
+}
+.fitle-food2{
+	font-size: 18px;
+	font-family: 'Poppins';
+	margin-top: 5px;
+	margin-left: 63px;
+	margin-bottom: 10px;
+
+}
+.food-p{
+	color: #B1B1B1;
+	font-size: 14px;
+	font-family: 'Poppins';
+	margin-left: 80px;
+}
+.food-p1{
+	color: #B1B1B1;
+	font-size: 14px;
+	font-family: 'Poppins';
+	margin-left: 60px;
+	margin-top: 5px;
+
+}
+/*ქართული სექცია*/
+.kartuli-absoluturi{
+	font-size: 20px;
+	color: #5863F8;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.img-ka{
+	width: 350px;
+	height: 212px;
+}
+.p-abso{
+	font-size: 16px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	width: 300px;
+	margin-top: 10px;
+
+}
+.kartuli{
+	display: inline-block;
+	background-color: ;
+}
+.kartuli1{
+	display: inline-block;
+}
+.img-ka1{
+	width: 350px;
+	height: 212px;
+
+}
+.kartuli-relatiuri{
+	font-size: 20px;
+	color: #5863F8;
+	font-family: 'BPG Nino Mtavruli';
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.p-rela{
+	font-size: 16px;
+	width: 300px;
+	margin-top: 10px;
+	font-family: 'BPG Nino Mtavruli';
+}
+.blog-ka{
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'BPG Nino Mtavruli';
+	margin: 20px 0;
+	}
+.news-ka{
+	font-size: 42px;
+	font-family: 'BPG Nino Mtavruli';
+}
